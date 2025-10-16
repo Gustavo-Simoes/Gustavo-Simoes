@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Simões 🙋🏻‍♂️
 
-Tenho foco em me tornar um desenvolvedor FrontEnd. Atualmente, estou cursando a faculdade de Desenvolvimento de Software e Multiplataformas, na Fatec Itaquera 📚 e pratico meus conhecimentos por fora através do curso da OneBiticode 🤟.
+Tenho foco em me tornar um desenvolvedor FrontEnd. Atualmente, estou cursando a faculdade de Desenvolvimento de Software e Multiplataformas, na Fatec Itaquera 📚 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavosimoeslisboa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-simões-956168301/)
